@@ -1,0 +1,13 @@
+{
+  "name": "mars-rover",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cemms1/mars-rover",
+  "author": "cemms1 <charlotteemms@live.co.uk>",
+  "license": "UNLICENSED",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

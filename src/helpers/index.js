@@ -1,0 +1,5 @@
+export * from './parseInput.js'
+export * from './changePosition.js'
+export * from './checkOnGrid.js'
+export * from './moveRobot.js'
+export * from './formatOutput.js'
